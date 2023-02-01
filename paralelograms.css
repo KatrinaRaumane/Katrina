@@ -1,0 +1,194 @@
+.h1teksts {
+    font-size: 70px;
+    text-align:center;
+    font-family:Lucida;
+    color:#e4fbffe4;
+    
+
+}
+
+.back{
+
+background-color:#15448534;    
+margin-left:70px;
+margin-right: 70px;
+margin-top:50px;
+padding-bottom:100px;
+
+
+}
+
+.question1{
+    font-size:30px;
+    font-family:'Gill Sans MT';
+    color:rgb(27, 22, 25);
+    text-align:center;
+    
+}
+
+ 
+body{
+    background-image:
+    url('jura.jpg');
+    background-repeat: no-repeat;
+  background-size: 100% 115%;
+    
+   
+}
+
+
+
+.mini{
+    font-size:40px;
+    text-align:center;
+    font-family:Garamond,serif;
+    color:#4F4846;
+}
+
+
+.text2{
+    font-size: 25px;
+    font-family:Lucida;
+    color:rgb(123, 73, 73);
+    text-decoration: underline ;
+    margin-right:18%;
+
+}
+
+
+.text1{
+    font-size: 25px;
+    text-align:center;
+    font-family:Lucida;
+    color:#4a3f37;
+    margin-left:34%;
+
+
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 250px;
+    margin-left:15%;
+}
+
+.profile{
+    width:170%;
+    height:90%;
+    vertical-align:top;
+    margin-top: 70px;
+    margin-left:-3;
+    background-color: #6b4f97;
+    border-radius: 8px;
+    border-color:aliceblue;
+    border-width: 3px;
+    border-style:solid;
+    
+
+    
+}
+
+ 
+
+
+
+.name{
+    font-size:30px;
+    margin-left:8px;
+    margin-right:15px;
+    text-align:center;
+    color:#2e2c49;
+    font-family:'Gill Sans MT';
+    font-weight: bold;
+}
+
+
+
+
+.button1{
+    margin-left:10%;
+    color:rgb(0, 0, 0);
+    background-color: rgba(34, 50, 72, 0.647);
+    border-color:rgb(194, 222, 246);
+    width:220px;
+    height:40px;
+    border-radius:30px;
+    font-size:30px;
+    margin-top:20px;
+    
+    font-weight: bold;
+    box-shadow: 5px 10px #2c0f40;
+   
+    
+
+}
+
+.pic{
+margin-left:12%;
+width:260px;
+height:180px;
+
+}
+
+
+
+hr{
+    border-width:8px;
+    width:96%;
+    border-color:#588ba9e1;
+    opacity:0.7;
+}
+
+
+.button-text{
+    color:#c0bbeb;
+    font-family:garamond;
+    margin-top:7.5%;
+    border: 10px;
+    
+   
+
+
+}
+
+.ptests{
+    color:rgb(88, 75, 68);
+    font-family:garamond;
+}
+
+ .answer {
+      color: red;
+      margin-top: 10px;
+      margin-left:20px;
+      font-size:70px;
+ }
+
+ .start-test{
+    
+
+    margin-left:43%;
+    color:rgb(0, 0, 0);
+    background-color: rgb(128, 86, 148);
+    border-color:rgb(194, 222, 246);
+    width:250px;
+    height: 70px;
+    border-radius:30px;
+    font-size:30px;
+    padding-left:20px;
+    padding-right:20px;
+    font-weight: bold;
+    box-shadow: 5px 10px #2c0f40;
+    
+
+}
+.visskopa{
+    margin-left:7%;
+    color:rgba(24, 50, 83, 0.874);
+    font-size:20px;
+    font-family:sans-serif;
+    font-weight: bold;
+}
+
+
+  
