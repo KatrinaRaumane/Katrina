@@ -1,0 +1,25 @@
+body{
+    
+    background-image: url('back2.jpg');
+    background-size:100% 300%;
+    background-repeat: no-repeat;
+}
+
+
+
+.h1-teksts{
+    font-size: 70px;
+    text-align:center;
+    font-family:Lucida;
+    color:#352f2e;
+}
+
+.back{
+
+color:rgb(70, 50, 38);
+background-color:rgb(203, 184, 165);
+border-color:rgb(165, 129, 106);
+border-radius: 8px;
+float:top;
+margin-bottom:100px;
+}
